@@ -1,4 +1,4 @@
-#Restaurant Finder
+# Restaurant Finder
 
 
 <p align="left">
